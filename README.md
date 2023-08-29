@@ -1,8 +1,8 @@
 # 👩‍💻 Project Portfolio (WIP)
 
 ## 📚 Table of Content
-* [Data Analysis & Reporting](#data_analysis_&_reporting)
-* [Data Visualization](#data-visualization)
+* [Data Analysis & Reporting](#-data-analysis--reporting)
+* [Data Visualization](#-data-visualization)
 * [Time Series Forecasting](#-time-series-forecasting)
 
 ## 👩‍💻 Data Analysis & Reporting
