@@ -16,7 +16,7 @@
 ## 📊 Data Visualization
 |Title   |Description          |Domain       |Tools
 | ------------- | ------------- |  ------------- |  ------------- |
-|[Analysis of Delivery Service in Supply Chain](https://github.com/ritusantra/Power-BI-Projects/tree/main/Delivery%20Service%20Analysis%20of%20Supply%20Chain)  |Developed an interactive report to track the delivery service level of a supply chain by analysing key metrics against the target service level for each customer.| Supply Chain |Microsoft Power BI   |
+|[Analysis of Delivery Service in Supply Chain](https://github.com/ritusantra/Power-BI-Projects/tree/main/Analysis%20of%20Delivery%20Service%20in%20Supply%20Chain)  |Developed an interactive report to track the delivery service level of a supply chain by analysing key metrics against the target service level for each customer.| Supply Chain |Microsoft Power BI   |
 |[Supply Chain Analytics](https://github.com/ritusantra/Power-BI-Projects/tree/main/Supply%20Chain%20Analytics)    | The purpose of this dashboard is to provide a comprehensive view of the entire supply chain by merging data from various sources, including Revenue, Warehousing, and Product-related information. | Supply Chain | Microsoft Power BI |
 |[Providing Insights to Management in Consumer Goods Domain](https://github.com/ritusantra/SQL-Projects/tree/main/Provide%20Insights%20to%20Management%20in%20Consumer%20Goods%20Domain)  |The aim of the project is to answer 10 ad hoc requests for which the business needs insights. This involves building SQL queries and creating visualizations to present the insights.  |Consumer Goods  |MySQL, Microsoft Power BI |
 
