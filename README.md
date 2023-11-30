@@ -11,7 +11,7 @@
 |[Data Mart - Sales Performance of An Online Supermarket](https://github.com/ritusantra/SQL-Projects/tree/main/Data%20Mart)  |The aim of the project is to analyze the sales performance of an online supermarket specializing in fresh produce, and using Before and After analysis method to evalaute the sales before and after the implementation of sustainable packaging methods across the entire supply chain, from the farm to the customer.  | Retail  | MySQL  |
 |[ABC Analysis of Inventory](https://github.com/ritusantra/SQL-Projects/tree/main/ABC_Analysis)  |The aim of the project is to implement ABC analysis technique which enables the categorization of inventory into three distinct segments - A,B,C - based on the value or importance of each. Through this analysis, organizations can rank their inventory and manage them efficiently.  |Inventory Management | MySQL, Microsoft Excel  |
 |[Product, Transaction & Sales Analysis of a Clothing Company](https://github.com/ritusantra/SQL-Projects/tree/main/Product%2C%20Transaction%20%26%20Sales%20Analysis%20of%20a%20Clothing%20Company)  | The aim of the project is to assist the merchandising team in analyzing their sales performance and generate a basic financial report to share with the wider business. The analysis is performed at the product, sales, and transactions level and a reporting solution has been developed to automate the end entire analysis and reporting process. |- | MySQL  |
-|[Ecommerce Customer Churn Analysis]()  | -  |Ecommerce | Oracle SQL  |
+
 ***
 
 ## 📊 Data Visualization
